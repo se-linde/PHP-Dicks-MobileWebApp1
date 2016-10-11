@@ -22,8 +22,8 @@ reside in the 'top.php' file
 switch(THIS_PAGE)
 {
   case "index.php":
-  $myTitle = "Sara Dwayne Linde";
-  $myPageID = "Sara Dwayne Linde";
+  $myTitle = "Dick's Food Calculator";
+  $myPageID = "Dick's Food Calculator";
   break;
   
   case "bio.php":
