@@ -1,5 +1,6 @@
 <?php include 'includes/header.php';?>    
 
+<script src="js/index.js"></script>
     
 <h1>Dick's Food Calculator</h1>
    
