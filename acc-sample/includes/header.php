@@ -13,8 +13,6 @@
 <link href='https://fonts.googleapis.com/css?family=Mystery+Quest' rel='stylesheet' type='text/css'>    
     
 <link rel="stylesheet" type="text/css" href="css/portal.css" />
-<link rel="stylesheet" href="css/accordion.css" />
-    
 <!-- <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />-->
 <!--[if lt IE 9]>
    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
