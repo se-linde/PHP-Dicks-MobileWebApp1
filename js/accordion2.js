@@ -1,8 +1,7 @@
-$('accordion').on('click', '.accordion-control',
-function(e) {
-e.preventDefault(); 
-$(this)
-    .next('accordion-panel')
-    .not(':animated')
-    .slideToggle(); 
+$('.accordion').on('click', '.accordion-control', function(e) { // When clicked
+  e.preventDefault();                   // Prevent default action of button. 
+  $(this)                               // Get then element the user clicked on. 
+    .next('.accordion-panel')           // Select following panel.
+    .not(':animated')                   // If it is not currently animating
+    .slideToggle();
 }); 
