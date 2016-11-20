@@ -43,7 +43,7 @@
 
   
     <script src="js/jquery-1.11.0.min.js"></script>
-    <script src="js/accordion.js"></script>
+    <script src="js/accordion2.js"></script>
 
         
 <?php include 'includes/footer.php';?> 
