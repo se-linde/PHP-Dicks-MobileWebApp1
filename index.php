@@ -89,6 +89,15 @@
         </li>
           
       </ul>
+        
+        <p></p>
+            
+        <h4>Subtotal:</h4>
+        
+        <h4>Tax:</h4>
+        
+        <h2>Total:</h2>
+        
     </section>
 
   
