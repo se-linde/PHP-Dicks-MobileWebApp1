@@ -14,11 +14,11 @@
               
             <p></p>
             <ol>
-                <li><b>Dick's Deluxe</b></li>
-                <li><b>Dick's Special</b></li>
-                <li><b>Cheeseburger</b></li>
-                <li><b>Hamburger</b></li>
-                <li><b>French Fries</b></li>
+                <li><b>Dick's Deluxe</b> - $3.10</li>
+                <li><b>Dick's Special</b> - $2.00</li>
+                <li><b>Cheeseburger</b> - $1.75</li>
+                <li><b>Hamburger</b> - $1.40</li>
+                <li><b>French Fries</b> - $1.75</li>
             </ol>
               
               
@@ -32,10 +32,10 @@
               
             <p></p>
             <ol>
-                <li><b>Shake (Chocolate/Vanilla/Strawberry)</b></li>
-                <li><b>Float</b></li>
-                <li><b>Milk</b></li>
-                <li><b>Coffee</b></li>
+                <li><b>Shake (Chocolate/Vanilla/Strawberry)</b> - $2.50</li>
+                <li><b>Hot Chocolate</b> - $1.25</li>
+                <li><b>2% Milk</b> - $1.25</li>
+                <li><b>Coffee</b> - $1.25</li>
             </ol>
             
               
@@ -48,9 +48,9 @@
               
             <p></p>
             <ol>
-                <li><b>Small</b></li>
-                <li><b>Medium</b></li>
-                <li><b>Large</b></li>
+                <li><b>Small</b> - $1.40</li>
+                <li><b>Medium</b> - $1.70</li>
+                <li><b>Large</b> - $1.90</li>
             </ol>
               
             <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong> Sed dapibus ac purus ut dapibus. Maecenas in est augue. Pellentesque euismod id mi nec efficitur. Pellentesque pellentesque lectus in sagittis pulvinar. Fusce gravida magna a aliquet lobortis. Sed blandit porta leo ac maximus. Sed consequat euismod ligula pharetra pulvinar. Aliquam placerat venenatis massa, sit amet aliquet quam aliquet eget. Aenean vel lorem sit amet ex dapibus gravida sit amet sit amet tortor. Nam facilisis lacus nulla, id feugiat est venenatis ac. Duis vulputate dui justo, ut commodo metus commodo vitae.</p> 
@@ -62,10 +62,11 @@
               
             <p></p>
             <ol>
-                <li><b>Kids Cones</b></li>
-                <li><b>Single Cones</b></li>
-                <li><b>Double Scoop</b></li>
-                <li><b>Sundaes</b></li>
+                <li><b>Kids Cones</b> - $1.30</li>
+                <li><b>Single Cone</b> - $1.90</li>
+                <li><b>Double Cone</b> - $2.80</li>
+                <li><b>Sundaes</b> - $2.30</li>
+                <li><b>Root Beer Float</b> - $2.50</li>
             </ol>
               
             <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong> Sed dapibus ac purus ut dapibus. Maecenas in est augue. Pellentesque euismod id mi nec efficitur. Pellentesque pellentesque lectus in sagittis pulvinar. Fusce gravida magna a aliquet lobortis. Sed blandit porta leo ac maximus. Sed consequat euismod ligula pharetra pulvinar. Aliquam placerat venenatis massa, sit amet aliquet quam aliquet eget. Aenean vel lorem sit amet ex dapibus gravida sit amet sit amet tortor. Nam facilisis lacus nulla, id feugiat est venenatis ac. Duis vulputate dui justo, ut commodo metus commodo vitae.</p> 
@@ -78,10 +79,10 @@
               
             <p></p>
             <ol>
-                <li><b>Onions</b></li>
-                <li><b>Ketchup</b></li>
-                <li><b>Tartar</b></li>
-                <li><b>Mustard</b></li>
+                <li><b>Onions</b> - $</li>
+                <li><b>Ketchup</b> - $</li>
+                <li><b>Tartar</b> - $</li>
+                <li><b>Mustard</b> - $</li>
             </ol>
               
             <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong> Sed dapibus ac purus ut dapibus. Maecenas in est augue. Pellentesque euismod id mi nec efficitur. Pellentesque pellentesque lectus in sagittis pulvinar. Fusce gravida magna a aliquet lobortis. Sed blandit porta leo ac maximus. Sed consequat euismod ligula pharetra pulvinar. Aliquam placerat venenatis massa, sit amet aliquet quam aliquet eget. Aenean vel lorem sit amet ex dapibus gravida sit amet sit amet tortor. Nam facilisis lacus nulla, id feugiat est venenatis ac. Duis vulputate dui justo, ut commodo metus commodo vitae.</p> 
@@ -92,11 +93,11 @@
         
         <p></p>
             
-        <h4>Subtotal:</h4>
+        <h4>Subtotal: $</h4>
         
-        <h4>Tax:</h4>
+        <h4>Tax: $</h4>
         
-        <h2>Total:</h2>
+        <h2>Total: $</h2>
         
     </section>
 
