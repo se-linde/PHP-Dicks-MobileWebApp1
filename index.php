@@ -79,10 +79,10 @@
               
             <p></p>
             <ol>
-                <li><b>Onions</b> - $</li>
-                <li><b>Ketchup</b> - $</li>
-                <li><b>Tartar</b> - $</li>
-                <li><b>Mustard</b> - $</li>
+                <li><b>Onions</b> - $0.05</li>
+                <li><b>Ketchup</b> - $0.05</li>
+                <li><b>Tartar</b> - $0.05</li>
+                <li><b>Mustard</b> - $0.05</li>
             </ol>
               
             <p><strong>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</strong> Sed dapibus ac purus ut dapibus. Maecenas in est augue. Pellentesque euismod id mi nec efficitur. Pellentesque pellentesque lectus in sagittis pulvinar. Fusce gravida magna a aliquet lobortis. Sed blandit porta leo ac maximus. Sed consequat euismod ligula pharetra pulvinar. Aliquam placerat venenatis massa, sit amet aliquet quam aliquet eget. Aenean vel lorem sit amet ex dapibus gravida sit amet sit amet tortor. Nam facilisis lacus nulla, id feugiat est venenatis ac. Duis vulputate dui justo, ut commodo metus commodo vitae.</p> 
