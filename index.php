@@ -32,7 +32,7 @@
               
             <p></p>
             <ol>
-                <li><b>Shake (Chocolate/Vanilla/Strawberry)</b> - $2.50</li>
+                <li><b>Shake</b> - $2.50</li>
                 <li><b>Hot Chocolate</b> - $1.25</li>
                 <li><b>2% Milk</b> - $1.25</li>
                 <li><b>Coffee</b> - $1.25</li>

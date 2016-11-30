@@ -4,7 +4,11 @@ html{
 
 body{
     width: 85%; 
-    background-color: #fff;
+
+    
+    /* background-color: #fff; */ 
+    background-color: #f2f2f2;
+    
     margin:0 auto;  /* center me top-bottom 0auto 0auto*/
     padding:0px 20px 20px 20px; /* Top Right Bottom Left */
 }
