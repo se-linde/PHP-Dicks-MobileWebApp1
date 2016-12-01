@@ -1,8 +1,27 @@
 <?php include 'includes/header.php';?>    
 
 <small>This is not endorsed or sponsored by the Dick's Drive-In Restaurant chain; this is an independent project meant as an academic exercise.</small>
+
 <p></p>
+
+<section class="landing">
+
+ <h3>Seattle</h3>
+  <p>Seattle is the center of the Greater Tokyo Area,
+  and the most populous metropolitan area in the world.</p>
+
+ <h3>Edmonds</h3>
+  <p>Edmonds is the center of the Greater Tokyo Area,
+  and the most populous metropolitan area in the world.</p>
     
+<h3><a href="index.php">Montreal</a></h3>    
+
+<h3><a href="index.php">Toronto</a></h3>
+    
+</section>
+
+
+
     <section class="page">
       <ul class="accordion">
         <li>

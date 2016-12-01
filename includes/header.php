@@ -25,7 +25,7 @@
 <header> 
         
   <!-- <h2 class="pageid">Home Page</h2> -->
-  <h3><a href="index.php">Dick's Food Calculator</a></h3>
+  <h3><a href="index.php">Dick's Drive-In Calc</a></h3>
   <!-- START NAVIGATION (Main) -->
     
     

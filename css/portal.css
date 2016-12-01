@@ -13,13 +13,13 @@ body{
     padding:0px 20px 20px 20px; /* Top Right Bottom Left */
 }
 
-    header {
+header {
         background:#ebe3f6;
 		color:#FFF;
         font-family: 'Mystery Quest', cursive, baskerville, palatino, 'palatino linotype', georgia, serif;
         border-bottom: 2px solid #000;
         border-top: 2px solid #000;
-	}
+}
 
 /* img {
     width: 50%;
@@ -51,6 +51,18 @@ h3 a {
         text-decoration:none;
         color:#000;
         font-size: 60px;
+        text-align: center; 
+}
+
+h4 {
+    
+    text-align: center; 
+}
+
+h4 a {
+        text-decoration:none;
+        color:#000;
+        font-size: 40px;
         text-align: center; 
 }
 
@@ -340,6 +352,41 @@ footer{
         border-right: none;
     }
 
+/* Landing Page Selection Buttons */ 
+
+.landing {
+        background:#ebe3f6;
+		color:#FFF;
+        font-family: 'Mystery Quest', cursive, baskerville, palatino, 'palatino linotype', georgia, serif;
+        border-bottom: 2px solid #000;
+        border-top: 2px solid #000;
+	}
+
+.landing h3 {
+    
+    text-align: center; 
+}
+
+.landing h3 a {
+        text-decoration:none;
+        color:#000;
+        font-size: 60px;
+        text-align: center; 
+}
+
+.landing h4 {
+    
+    text-align: center; 
+}
+
+.landing h4 a {
+        text-decoration:none;
+        color:#000;
+        font-size: 40px;
+        text-align: center; 
+}
+
+
 
 /* RESPONSIVE STYLE */
 /* DESKTOP styles for anything bigger than 999px */
@@ -364,10 +411,22 @@ footer{
     text-align: center; 
     }
 
-h3 a {
+    h3 a {
         text-decoration:none;
         color:#000;
         font-size: 48px;
+        text-align: center; 
+    }
+    
+    h4 {
+    
+    text-align: center; 
+    }
+
+    h4 a {
+        text-decoration:none;
+        color:#000;
+        font-size: 40px;
         text-align: center; 
     }
 }
@@ -383,7 +442,19 @@ h3 a {
     h3 a {
         text-decoration:none;
         color:#000;
-        font-size: 36px;
+        font-size: 30px;
+        text-align: center; 
+    }
+    
+    h4 {
+    
+    text-align: center; 
+    }
+
+    h4 a {
+        text-decoration:none;
+        color:#000;
+        font-size: 32px;
         text-align: center; 
     }
 }
