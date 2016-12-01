@@ -358,20 +358,33 @@ footer{
         background:#ebe3f6;
 		color:#FFF;
         font-family: 'Mystery Quest', cursive, baskerville, palatino, 'palatino linotype', georgia, serif;
-        border-bottom: 2px solid #000;
-        border-top: 2px solid #000;
+        padding-bottom: 60px;
 	}
 
+.landing p {
+        background:#ebe3f6;
+		color:#000;
+}
+
+.landing small {
+    font-family: baskerville, palatino, 'palatino linotype', georgia, serif;
+    color:#000; 
+    font-size: 16px; 
+}
+
 .landing h3 {
-    
-    text-align: center; 
+        text-decoration:none;
+        color:#000; 
+        text-align: center;
+        font-size: 60px;
+        border: 2px solid #000; 
+        max-width: 300px;  
 }
 
 .landing h3 a {
         text-decoration:none;
         color:#000;
         font-size: 60px;
-        text-align: center; 
 }
 
 .landing h4 {
